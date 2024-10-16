@@ -9,14 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-<<<<<<< HEAD
-    "vite": "^5.4.8"
-=======
+    "bootstrap": "^5.3.3",
     "sass": "^1.79.5",
     "vite": "^5.4.8"
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
->>>>>>> f1913ba (init: initiate a project)
   }
 }

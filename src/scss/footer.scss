@@ -1,0 +1,21 @@
+footer {
+  .footer {
+    &__inner {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    &__links {
+      display: flex;
+      gap: 20px;
+      &.links {
+        .links__item {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+      }
+    }
+  }
+}
